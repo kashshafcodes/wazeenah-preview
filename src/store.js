@@ -27,7 +27,7 @@ export const store = {
 
   lang: "en",
   builtBy: "Kazi Marzuk",
-  builtByUrl: "https://wa.me/8801891966267",
+  builtByUrl: "https://kashshafcodes.github.io/",
 
   categories: [
     { id: "calligraphy", label: "Arabic calligraphy" },
